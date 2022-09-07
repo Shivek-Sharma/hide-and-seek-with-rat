@@ -1,5 +1,5 @@
 # Hide and Seek with Rat
-It's a Hide and Seek Game with a rat. You will enjoy playing this game. 
+It's a Hide and Seek Game with a Rat. You will enjoy playing this game. 
 I also programmed this game when I was learning C language.
 
 # Rules of the Game:
@@ -14,5 +14,9 @@ I also programmed this game when I was learning C language.
 9. Keep playing and keep winning until you go out of cash.
 
 # Demo Video
+
+
+
+https://user-images.githubusercontent.com/67789617/188952102-a64b7cf5-66d1-4f9d-8991-d7a88602de5e.mp4
 
 
